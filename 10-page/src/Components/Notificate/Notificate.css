@@ -1,0 +1,59 @@
+.Notifications{
+    padding: 2rem;
+    border-radius: 0.5rem;
+}
+.heading{
+    font-weight: bold;
+    text-align: center;
+    font-size: 2rem;
+}
+.noti1{
+    background-color: #2f3031a1;
+    padding-top: 1rem;
+    border-radius: 0.5rem;
+    margin: 1rem;
+}
+p{
+    font-size: 1rem;
+    color: rgb(97, 95, 95);
+    margin: 1rem;
+  }
+.diamond{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.arrange{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 2rem;
+}
+.arrange h1{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.btn{
+    width:10rem;
+    height:10rem;
+    background-color: white;
+    padding: 1.2rem;
+    border-radius: 0.5rem;
+}
+
+.time-date{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem;
+}
+hr{
+    margin: 1rem;
+    border: none;
+    height: 2px;
+    background: rgb(150, 148, 148);
+    margin-bottom: 1rem;
+}
